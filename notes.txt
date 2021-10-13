@@ -1,0 +1,5 @@
+This application should already work
+Update it so that it works offline as well
+
+When the user inputs either an expense or deposit, the request will be stored
+until an internet connection is established - once it is, the application will update
